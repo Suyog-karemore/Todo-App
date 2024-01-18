@@ -1,0 +1,45 @@
+.inpContent {
+  margin: 20px;
+  border: 3px solid;
+  display: inline-block;
+  padding: 20px;
+  border-radius: 20px 0;
+}
+
+.inpt {
+  background-color: unset;
+  border: none;
+  border-bottom: 1px solid;
+}
+
+.addbtn {
+  width: 100px;
+  font-family: cursive;
+  border-radius: 10px 0;
+}
+
+.inpLabel {
+  font-weight: 800;
+  font-family: cursive;
+}
+
+.listBox {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  flex-direction: row;
+  width: 100%;
+}
+
+.listItem {
+  border-bottom: 2px solid;
+  border-top: 2px solid;
+  margin-bottom: 5px;
+  padding: 10px;
+  border-radius: 20px 0;
+  background: unset;
+  font-family: cursive;
+  font-style: bold;
+  font-weight: bold;
+  background-color: rgba(255, 0, 0, 0.2);
+}
